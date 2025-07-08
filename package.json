@@ -38,7 +38,7 @@
     }
   },
   "dependencies": {
-    "@prisma/client": "2.5.1",
+    "@prisma/client": "^6.11.1",
     "@reduxjs/toolkit": "^1.4.0",
     "bcrypt": "^5.0.0",
     "chart.js": "^2.9.3",
@@ -56,6 +56,7 @@
     "maxmind": "^4.1.4",
     "moment-timezone": "^0.5.31",
     "next": "^9.5.2",
+    "prisma": "^6.11.1",
     "promise-polyfill": "^8.1.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -100,5 +101,6 @@
     "stylelint-config-css-modules": "^2.2.0",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-recommended": "^3.0.0"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
